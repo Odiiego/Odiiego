@@ -1,1 +1,1 @@
-Olá! Me chamo Diego e atualmente estou cursando o primeiro semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. Me interesso por Design e Desenvolvimento Fullstack. Adoro estudar e aplicar o que aprendi, criando projetos e experiências diferenciadas.
+Oi! Sou um químico/dev esforçado, tentando transicionar de carreira!
