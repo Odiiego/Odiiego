@@ -17,7 +17,7 @@
 
 Oi! Sou Diego, desenvolvedor Fullstack vindo da química, agora focado no trabalho freelancer. Estou construindo meu portfólio com projetos pessoais. Atualmente, estou usando **React**, **Node**, **TypeScript** e **MongoDB**.
 
-## Estatisticas
+## Estatísticas
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=odiiego&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/odiiego?tab=repositories)
 
