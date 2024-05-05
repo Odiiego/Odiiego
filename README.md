@@ -1,6 +1,6 @@
 # Oi! Diego aqui ;D
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=white)](https://www.linkedin.com/in/souodiego/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white&borderColor=white)](mailto:odiegodev@gmail.com)
 
 ## Sobre Mim
