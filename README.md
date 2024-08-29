@@ -15,7 +15,7 @@
 ![Express](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white&)
 
-Oi! Sou Diego, desenvolvedor Fullstack vindo da química, agora focado no trabalho freelancer. Estou construindo meu portfólio com projetos pessoais. Atualmente, estou usando **React**, **Node**, **TypeScript** e **MongoDB**.
+Oi! Sou Diego, desenvolvedor Fullstack vindo da química, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Muito interessado em **React**, **Node**, **TypeScript** e **MongoDB**.
 
 ## Estatísticas
 
