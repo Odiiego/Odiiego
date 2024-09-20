@@ -15,7 +15,7 @@
 ![Express](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white&)
 
-Oi! Sou Diego, desenvolvedor Fullstack vindo da química, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Muito interessado em **React**, **Node**, **TypeScript** e **MongoDB**.
+Olá! Me chamo Diego e sou Desenvolvedor Front End, mas também me arrisco com Node e Python no Back End. Adoro criar aplicações web e me desafiar com novas tecnologias. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São Paulo e fazendo cursos livres relacionados ao desenvolvimento web.
 
 ## Estatísticas
 
