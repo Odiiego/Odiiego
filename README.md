@@ -30,6 +30,10 @@ Me chamo Diego, **desenvolvedor Fullstack** apaixonado por criar interfaces intu
 
 ## Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Odiiego&repo=conway-war&theme=dark#gh-dark-mode-only)](https://github.com/Odiiego/conway-war)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Odiiego&repo=PyListing&theme=dark#gh-dark-mode-only)](https://github.com/Odiiego/PyListing)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Odiiego&repo=prjct_cordyceps&theme=dark#gh-dark-mode-only)](https://github.com/Odiiego/prjct_cordyceps)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Odiiego&repo=HireMeGames&theme=dark#gh-dark-mode-only)](https://github.com/Odiiego/HireMeGames)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Odiiego&repo=conway-war&theme=dark#gh-dark-mode-only)](https://github.com/Odiiego/conway-war)
